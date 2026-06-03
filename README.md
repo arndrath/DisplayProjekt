@@ -1,3 +1,5 @@
+![App Screenshot](06_Media/Cup%20Hanging.png)
+
 # DisplayProjekt
 Testing out alternatives to digital displays.
 
