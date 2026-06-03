@@ -6,18 +6,18 @@ Eingehende Bestellungen werden so direkt in eine intuitive, physische Rezeptübe
 
 ---
 
-## 🛠️ Das Konzept
+## Das Konzept
 
 Das radarähnliche Ziffernblatt nutzt konzentrische Ringe und mechanische Indikator-Pins, um die kumulierte Menge der benötigten Zutaten für alle aktiven Bestellungen auf einen Blick darzustellen. Das spart kognitive Last beim Barista, da kein "Kopfrechnen" für parallele Bons mehr nötig ist.
 
-### 📍 Zutaten-Tracking (Die Pins)
+### Zutaten-Tracking (Die Pins)
 * 🟨 **Gelb/Braun:** Zeigt an, wie viele Espresso-Shots noch bezogen werden müssen.
 * ⬜ **Weiß:** Erfasst die Menge an Standard-Kuhmilch, die aufzuschäumen ist.
 * 🟥 **Rot:** Hebt den Bedarf an veganen Milchalternativen (z. B. Hafer- oder Mandelmilch) hervor. Dies hilft dem Barista zusätzlich, Kreuzkontaminationen im Workflow zu vermeiden.
 
 ---
 
-## 📐 Ergonomie & Formfaktor
+## Ergonomie & Formfaktor
 
 Das Gehäuse ist so optimiert, dass es sich nahtlos in jede Barista-Umgebung einfügt – egal ob wenig Platz vorhanden ist oder eine feste Station genutzt wird.
 
@@ -29,7 +29,7 @@ Wird das Gerät auf der Arbeitsfläche platziert – wie in **Cup Table.png** da
 
 ---
 
-## ✨ Highlights
+## Highlights
 
 - **Analoge Hardware, Digitaler Kern:** Verbindet eine klare, minimalistische Designästhetik (Swiss Design inspiriert) mit direktem funktionalen Feedback.
 - **Workflow-Fokus:** Verwandelt die typische Hektik bei der Getränkezubereitung in ein ruhiges, strukturiertes und visuell ansprechendes Ritual.
