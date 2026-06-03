@@ -1,0 +1,36 @@
+# DisplayProjekt — Development Logbook
+
+A structured repository tracking the exploration and implementation of physical, mechanical, and alternative display systems.
+
+---
+
+## 📅 May 2026
+
+### 🛠️ May 27, 2026 — Orbital Indicator Concept
+*   **Concept Exploration:** Investigated using an orbital, clock-like mechanical movement to visualize metrics (e.g., tracking the quantity or status of coffee orders). The rotary layout offers an elegant, non-digital approach to data physicalization.
+*   **Design Reference:** 
+    *   [Desk Orbital Clock Version 2.0 (MakerWorld)](https://makerworld.com/en/models/788000-desk-orbital-clock-version-2-0) — *Inspiration for the mechanical drive and ring-based positioning.*
+*   **Artifacts:** Generated a conceptual rendering/image illustrating how this orbital metric display could look and function within the physical housing.
+
+---
+
+### 🔬 May 23, 2026 — Mechanical & Electro-Magnetic Displays
+*   **Flip-Dot Display Evaluation:**
+    *   Evaluated a vintage/traditional Flip-Dot display unit.
+    *   *Finding:* Integrating and driving the legacy hardware with a Raspberry Pi appears highly complex and requires significant custom circuitry/driver overhead.
+    *   *Technical References:*
+        *   [How-to: Flip-dot With a Raspberry Pi (Instructables)](https://www.instructables.com/Howto-Flipdot-With-a-Raspi/)
+        *   [Der Flipdot-Hack (Heise Ratgeber)](https://www.heise.de/ratgeber/Der-Flipdot-Hack-3527908.html)
+*   **Split-Flap Display Research:**
+    *   Explored modular, 3D-printable split-flap mechanisms as a more maintainable and customizable mechanical alternative to commercial flip-dots.
+    *   *Technical Reference:* [Split-Flap Clock Digit Unit (MakerWorld)](https://makerworld.com/en/models/1032884-split-flap-clock-digit-unit?from=search#profileId-1016086)
+*   **Potential Offshoots / Side Concepts:**
+    *   Considered a personalized or decorative split-flap application (e.g., for Jessica).
+    *   *Reference:* [Split-Flap Picture Frame (MakerWorld)](https://makerworld.com/en/models/1096415-split-flap-picture-frame)
+
+---
+
+## 📋 How to use this Logbook
+1. **Add Entries:** Always add new entries at the top of the log under the corresponding month header (reverse chronological order).
+2. **Link Assets:** Store physical sketches, conceptual renders, or wiring diagrams in an `/assets` or `/images` directory within the repository and link them directly using `![Alt Text](assets/filename.png)`.
+3. **Cross-Reference:** Link components to active code or hardware BOM lists where relevant.
